@@ -58,8 +58,43 @@ ec2 insatnce created
  $sudo s
  
 
- created Dockerfile
+ created Dockerfiles
+ 
+$Dockerfile
+ 
+$Dockerfilephp
 
+then build this images
+
+$docker-compose.yaml
+
+# Docker Hub
+
+login docker hub
+
+![WhatsApp Image 2023-10-05 at 16 55 40](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/6b29ed6d-230d-4f44-af96-f3c690386d83)
+
+$docker tag : sudo docker tag wordpress:latest manikantaraju/discover:new_version
+
+$docker push : sudo docker push manikantaraju/discover:new_version
+
+![WhatsApp Image 2023-10-05 at 16 55 40 (2)](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/d752398d-1069-4115-8334-df59f55fdd56)
+
+![WhatsApp Image 2023-10-05 at 16 55 40 (1)](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/1f4d1fcf-7272-474a-b8ef-1af09afa1cdd)
+
+
+# Wordpress login
+
+http://44.198.174.168:80     EC2 public ip + portnumber
+
+![WhatsApp Image 2023-10-05 at 16 55 53](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/3d5d1c5f-3bfa-49f0-87c0-01a3c35c0769)
+
+Click on continue button
+![WhatsApp Image 2023-10-05 at 16 55 40 (4)](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/64afa07f-dec3-426e-aeb1-dd235b9c7ccc)
+
+![WhatsApp Image 2023-10-05 at 16 55 40 (3)](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/f69f57d9-4234-40c5-9f84-08aa24c08aa5)
+
+![WhatsApp Image 2023-10-05 at 16 55 40 (5)](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/72c7721d-8fe2-449f-bbe3-df2d0ae3fc23)
 
 
 
