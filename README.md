@@ -1,10 +1,15 @@
 # Deploying wordpress on AWS/Azure with RDS using Terraform, and Docker.( AWS)
 
 #task 1: Create a Terraform script to deploy a VM. The VM should be in public subnet
+
 #task 2: In the same VM Create a Dockerfile to deploy Apache webserver + PHP + Wordpress. Use COPY, ARG, RUN, ENTRYPOINT, CMD, WORKDIR in Dockerfile.
+
 #task 3: Build the docker image, tag the image and push the docker image to Docker Hub and run the container.
+
 #task 4 : Deploy the RDS on AWS/Azure and it should be on private subnet.
+
 #task 5 : Connect your Wordpress container with RDS database.
+
 #Setup the Wordpress and attach all the screenshot and code to Github. 
 
 # install Terraform
