@@ -91,7 +91,7 @@ see the pushed image listed in the repository
 
 # Wordpress login
 
-http://44.198.174.168:80     EC2 public ip + portnumber
+http://  44.198.174.168  80   EC2 public ip + portnumber
 
 
 ![WhatsApp Image 2023-10-05 at 16 55 53](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/3d5d1c5f-3bfa-49f0-87c0-01a3c35c0769)
