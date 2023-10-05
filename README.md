@@ -51,6 +51,15 @@ ec2 insatnce created
 
  After creating all resources over Terraform
 
+ # docker
+
+ installed docker on my system , check with 
+
+ $sudo s
+ 
+
+ created Dockerfile
+
 
 
 
