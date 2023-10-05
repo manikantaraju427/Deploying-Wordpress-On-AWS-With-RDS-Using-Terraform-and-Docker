@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  wordpress:
+    image: wordpress:latest
+    ports:
+      - "80:80"
+    environment:
+      WORDPRESS_DB_HOST: my-rds-instance.clu1dlux0zqv.us-east-1.rds.amazonaws.com
+      WORDPRESS_DB_USER: manikanta
+      WORDPRESS_DB_PASSWORD: maniraju$
+      WORDPRESS_DB_NAME: wordpress_db
+    volumes:
+      - wordpress_data:/var/www/html
+
+volumes:
+  wordpress_data:
