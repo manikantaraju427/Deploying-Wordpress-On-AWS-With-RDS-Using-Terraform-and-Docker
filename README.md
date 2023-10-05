@@ -34,6 +34,17 @@ $terrafrom apply
 
 ![WhatsApp Image 2023-10-05 at 14 23 26](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/956af609-f062-4e98-917b-8f5a91720582)
 
+After running the terraform apply command , required infrastructure to be created
+
+RDS instance is created
+
+![WhatsApp Image 2023-10-05 at 14 28 40](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/68b7961e-c106-4452-8c2d-3f7669af00cd)
+
+ec2 insatnce created
+
+![WhatsApp Image 2023-10-05 at 14 32 05](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/ceed1f27-6b63-4585-824e-755ff06a39f9)
+
+
 
 
 
