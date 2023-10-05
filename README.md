@@ -49,7 +49,7 @@ ec2 insatnce created
 
 ![WhatsApp Image 2023-10-05 at 14 32 05](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/ceed1f27-6b63-4585-824e-755ff06a39f9)
 
-
+ After creating all resources over Terraform
 
 
 
