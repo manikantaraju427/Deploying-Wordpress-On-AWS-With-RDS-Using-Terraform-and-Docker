@@ -108,7 +108,7 @@ Click on continue button
 ![WhatsApp Image 2023-10-05 at 16 55 40 (5)](https://github.com/manikantaraju427/Discover-Dollar/assets/125948783/72c7721d-8fe2-449f-bbe3-df2d0ae3fc23)
 
 
-i have deployed Wordpress successfully as per task
+i have deployed Wordpress successfully as per task 
 
 
 
